@@ -963,13 +963,13 @@
     "id": "2026-05-26-000",
     "title": "NousResearch/hermes-agent",
     "category": "agent",
-    "relevance_score": 0.75
+    "relevance_score": 0.85
   },
   {
     "id": "2026-05-26-001",
     "title": "langgenius/dify",
     "category": "agent",
-    "relevance_score": 0.9
+    "relevance_score": 0.85
   },
   {
     "id": "2026-05-26-002",
@@ -981,7 +981,7 @@
     "id": "2026-05-26-003",
     "title": "firecrawl/firecrawl",
     "category": "tool",
-    "relevance_score": 0.85
+    "relevance_score": 0.9
   },
   {
     "id": "2026-05-26-004",
@@ -1004,14 +1004,14 @@
   {
     "id": "2026-05-26-007",
     "title": "OpenHands/OpenHands",
-    "category": "tool",
+    "category": "agent",
     "relevance_score": 0.85
   },
   {
     "id": "2026-05-26-008",
     "title": "hiyouga/LlamaFactory",
     "category": "framework",
-    "relevance_score": 0.9
+    "relevance_score": 0.85
   },
   {
     "id": "2026-05-26-009",
