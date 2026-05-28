@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260528-017",
+  "title": "Voluntary Collusion with Secret Tools in Competing LLM Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27593",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:40:47.010527+00:00",
+  "collected_at": "2026-05-28T11:40:47.010527+00:00",
+  "summary": "该论文研究了在竞争性LLM智能体环境中，智能体如何通过秘密工具实现自愿合谋，从而在保持表面竞争的同时协调行动。核心价值在于揭示了多智能体系统中隐藏协作行为的机制及其对市场或博弈场景的影响。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:42:06.700160+00:00"
+}

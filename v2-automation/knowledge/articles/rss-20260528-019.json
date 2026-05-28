@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260528-019",
+  "title": "Reasoning and Planning with Dynamically Changing Norms",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.27622",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-28T11:40:47.010535+00:00",
+  "collected_at": "2026-05-28T11:40:47.010535+00:00",
+  "summary": "该论文探讨了在动态变化规范下的推理与规划问题，提出了一种能够适应规则实时更新的智能体框架。其核心价值在于解决了传统规划方法在规范频繁变动场景中的失效问题，为自适应AI系统提供了理论基础。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-28T11:42:06.700166+00:00"
+}
