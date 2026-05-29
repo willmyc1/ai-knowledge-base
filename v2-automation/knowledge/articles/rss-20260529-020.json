@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260529-020",
+  "title": "Differentiable Belief-based Opponent Shaping",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29042",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:32:23.893026+00:00",
+  "collected_at": "2026-05-29T11:32:23.893026+00:00",
+  "summary": "该论文提出了一种基于可微信念的对手塑形方法，通过将对手的信念模型纳入梯度计算，使智能体能够更有效地影响对手的学习过程。该方法在多智能体环境中展示了优于传统对手塑形技术的性能，为合作与竞争场景下的策略学习提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:33:24.187452+00:00"
+}

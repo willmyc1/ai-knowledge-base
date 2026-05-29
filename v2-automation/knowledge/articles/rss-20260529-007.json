@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260529-007",
+  "title": "Behavior-Induced Mirror-Prox Temporal-Difference Learning for Faster Off-Policy Prediction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.28849",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:32:23.892918+00:00",
+  "collected_at": "2026-05-29T11:32:23.892918+00:00",
+  "summary": "该论文提出了一种名为行为诱导镜像近端时间差分学习的新方法，旨在加速离策略预测。通过结合镜像近端算法与行为诱导策略，该方法在保持收敛性的同时显著提升了学习效率。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:33:24.187412+00:00"
+}

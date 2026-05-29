@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260529-018",
+  "title": "Mind Your Tone: Does Tone Alter LLM Performance?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.29027",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-05-29T11:32:23.893009+00:00",
+  "collected_at": "2026-05-29T11:32:23.893009+00:00",
+  "summary": "该论文研究了语气（tone）对大型语言模型（LLM）性能的影响，发现不同的语气（如正式、非正式、友好或严厉）会显著改变模型的输出质量和准确性。研究通过多种任务和模型进行实验，揭示了语气作为提示工程中一个被忽视的关键因素，为优化LLM交互提供了新视角。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-29T11:33:24.187447+00:00"
+}
