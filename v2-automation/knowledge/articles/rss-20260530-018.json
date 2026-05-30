@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260530-018",
+  "title": "Building Blocks for Foundation Model Training and Inference on AWS",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/amazon/foundation-model-building-blocks",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T10:03:04.170619+00:00",
+  "collected_at": "2026-05-30T10:03:04.170619+00:00",
+  "summary": "该文章介绍了在AWS上构建和训练基础模型（Foundation Model）的关键组件和最佳实践，涵盖训练和推理的架构设计。它提供了实用的技术指导，帮助开发者利用AWS基础设施高效地开发和部署大规模AI模型。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-30T10:14:02.229561+00:00"
+}

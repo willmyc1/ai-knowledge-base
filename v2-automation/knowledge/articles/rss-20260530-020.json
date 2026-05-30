@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260530-020",
+  "title": "Adding Benchmaxxer Repellant to the Open ASR Leaderboard",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/open-asr-leaderboard-private-data",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-05-30T10:03:04.170628+00:00",
+  "collected_at": "2026-05-30T10:03:04.170628+00:00",
+  "summary": "该文章介绍了在Open ASR排行榜上添加一种名为'Benchmaxxer Repellant'的机制，旨在防止基准测试过度优化（benchmark hacking），确保排行榜更准确地反映模型的实际语音识别性能。核心价值在于提升评估的公平性和可靠性，推动ASR领域的健康发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-30T10:14:02.229566+00:00"
+}
