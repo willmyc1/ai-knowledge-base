@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260531-003",
+  "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-05-31T10:18:22.049920+00:00",
+  "collected_at": "2026-05-31T10:18:22.049920+00:00",
+  "summary": "Liquid AI 发布了名为 8B-A1B 的混合专家模型（MoE），该模型在 38 万亿个 token 上进行了训练。这一成果展示了 MoE 架构在提升模型效率和性能方面的潜力，是 AI 领域的一项重要技术进展。",
+  "score": 8,
+  "tags": [
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-05-31T10:19:25.968536+00:00"
+}
