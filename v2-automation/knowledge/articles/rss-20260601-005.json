@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260601-005",
+  "title": "Transforming and Encoding FTS for SAT Solving: What Helps, What Hurts (Extended Version)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30563",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:40:15.449502+00:00",
+  "collected_at": "2026-06-01T13:40:15.449502+00:00",
+  "summary": "该论文研究了在SAT求解中转换和编码FTS（故障树系统）的不同方法，分析了哪些技术有助于提升求解效率，哪些会降低性能。通过实验对比，为实际应用提供了优化编码策略的指导。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:41:21.305549+00:00"
+}

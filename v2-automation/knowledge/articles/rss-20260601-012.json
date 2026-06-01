@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260601-012",
+  "title": "MAVEN: Improving Generalization in Agentic Tool Calling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2605.30738",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-01T13:40:15.449538+00:00",
+  "collected_at": "2026-06-01T13:40:15.449538+00:00",
+  "summary": "该论文提出MAVEN方法，旨在提升智能体工具调用中的泛化能力。通过引入元学习或对比学习等机制，MAVEN帮助模型在未见过的工具或任务上表现更稳定，从而增强AI智能体的实用性和鲁棒性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-01T13:41:21.305576+00:00"
+}
