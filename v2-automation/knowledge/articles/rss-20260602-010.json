@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-010",
+  "title": "MindGames Arena Generalization Track: In2AI Solution with Delayed Per-Step Reward Attribution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00017",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:07:01.001613+00:00",
+  "collected_at": "2026-06-02T12:07:01.001613+00:00",
+  "summary": "本文介绍了在MindGames Arena泛化赛道中，In2AI团队提出的延迟每步奖励归因解决方案。该方法通过延迟奖励分配机制，有效解决了稀疏奖励环境下的信用分配问题，提升了智能体的泛化能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-02T12:08:02.796325+00:00"
+}

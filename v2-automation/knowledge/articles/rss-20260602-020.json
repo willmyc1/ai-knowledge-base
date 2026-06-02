@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260602-020",
+  "title": "Geodesic Flow Matching for Denoising High-Dimensional Structured Representations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.00248",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-02T12:07:01.001660+00:00",
+  "collected_at": "2026-06-02T12:07:01.001660+00:00",
+  "summary": "该论文提出了一种基于测地流匹配（Geodesic Flow Matching）的新方法，用于对高维结构化表示进行去噪。通过将去噪过程建模为测地流上的概率路径，该方法能够更有效地处理复杂数据流形上的噪声，提升生成质量。其核心价值在于为高维结构化数据的生成与去噪提供了一种理论严谨且计算高效的解决方案。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-02T12:08:02.796373+00:00"
+}
