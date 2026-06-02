@@ -1,0 +1,20 @@
+{
+  "id": "2026-06-02-008",
+  "title": "bytedance/deer-flow",
+  "source": "github",
+  "url": "https://github.com/bytedance/deer-flow",
+  "collected_at": "2026-06-02T04:19:20.644986+00:00",
+  "summary": "字节跳动开源的长周期超级代理框架，集成沙箱、记忆、工具、技能、子代理和消息网关，可处理从分钟到小时级别的复杂任务，支持研究、编码和创作。",
+  "tags": [
+    "agent",
+    "long-horizon",
+    "sandbox",
+    "memory",
+    "tool-use",
+    "subagent",
+    "message-gateway"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过模块化组件（沙箱、记忆、工具、子代理）协同，实现跨时间尺度的自主任务执行，突破传统代理的短时限制。"
+}
