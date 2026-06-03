@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260603-009",
+  "title": "ChatHealthAI: Aligning Electronic Health Record Representations with Large Language Models for Grounded Clinical Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.02802",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-03T12:44:43.551209+00:00",
+  "collected_at": "2026-06-03T12:44:43.551209+00:00",
+  "summary": "该论文提出ChatHealthAI，一种将电子健康记录（EHR）表示与大型语言模型（LLM）对齐的方法，以实现基于事实的临床推理。核心价值在于通过对齐EHR和LLM，提升模型在临床决策中的准确性和可解释性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-03T12:45:47.378020+00:00"
+}
