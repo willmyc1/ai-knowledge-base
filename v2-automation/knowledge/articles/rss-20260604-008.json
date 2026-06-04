@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260604-008",
+  "title": "Thinking Through Signs: PEEL as a Semiotic Scaffolding for Epistemically Accountable AI-Enabled Research",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.04152",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-04T11:17:39.148977+00:00",
+  "collected_at": "2026-06-04T11:17:39.148977+00:00",
+  "summary": "该论文提出PEEL框架，将符号学理论（皮尔斯符号学）与AI研究结合，通过符号脚手架（Semiotic Scaffolding）增强AI系统的认知责任性。核心价值在于为AI可解释性和伦理决策提供理论基础，推动符号学在AI领域的应用。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-04T11:18:40.493526+00:00"
+}
