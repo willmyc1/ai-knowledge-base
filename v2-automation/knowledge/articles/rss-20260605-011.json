@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260605-011",
+  "title": "SentinelBench: A Benchmark for Long-Running Monitoring Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05342",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:30:32.170659+00:00",
+  "collected_at": "2026-06-05T11:30:32.170659+00:00",
+  "summary": "SentinelBench 是一个用于评估长时间运行监控代理的基准测试。它旨在衡量 AI 代理在持续监控任务中的性能、稳定性和可靠性，填补了现有基准测试在长期运行场景下的空白。该工作为构建更健壮的监控系统提供了重要的评估工具。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:31:37.110777+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260605-018",
+  "title": "Agents' Last Exam",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.05405",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-05T11:30:32.170694+00:00",
+  "collected_at": "2026-06-05T11:30:32.170694+00:00",
+  "summary": "该论文提出了一个用于评估AI智能体在复杂任务中表现的综合基准测试，涵盖多步骤推理、工具使用和长期规划能力。其核心价值在于为智能体系统的性能评估提供标准化框架，推动自主决策技术的发展。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-05T11:31:37.110798+00:00"
+}
