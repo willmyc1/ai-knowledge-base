@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-005",
+  "title": "Her · हेर — a detective for your Claude Code sessions",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/build-small-hackathon/her-blog",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-07T10:31:18.031747+00:00",
+  "collected_at": "2026-06-07T10:31:18.031747+00:00",
+  "summary": "Her · हेर 是一个为 Claude Code 会话设计的侦探工具，旨在通过分析会话日志来提供洞察和调试支持。它利用 AI 技术帮助开发者理解代码生成过程中的问题，提升开发效率。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "tool-use",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:32:22.391058+00:00"
+}

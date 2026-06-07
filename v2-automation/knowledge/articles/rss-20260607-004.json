@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260607-004",
+  "title": "Harness engineering: Leveraging Codex in an agent-first world",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://openai.com/index/harness-engineering/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-07T10:31:11.269535+00:00",
+  "collected_at": "2026-06-07T10:31:11.269535+00:00",
+  "summary": "本文探讨了在智能体优先的世界中如何利用Codex进行工程实践，强调了代码生成和工具使用在构建自主AI系统中的作用。核心价值在于提供了一种将大型语言模型与工程流程深度整合的方法，以提升开发效率和系统可靠性。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "agent",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-07T10:32:22.391055+00:00"
+}
