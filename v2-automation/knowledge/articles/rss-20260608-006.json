@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260608-006",
+  "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06526",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:36:27.017866+00:00",
+  "collected_at": "2026-06-08T12:36:27.017866+00:00",
+  "summary": "CrowdMath 是一个用于研究众包数学讨论的数据集，旨在捕捉数学研究中的协作推理过程。该数据集包含来自在线社区的数学问题讨论，可用于训练和评估 AI 模型在数学推理和协作方面的能力。其核心价值在于为数学推理研究提供真实、复杂的对话数据，推动 AI 在数学领域的应用。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-08T12:37:39.686247+00:00"
+}

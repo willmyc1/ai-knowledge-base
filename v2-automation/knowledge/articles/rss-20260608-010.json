@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260608-010",
+  "title": "Accelerated Fourier SAT (AFSAT): Fully Realising a GPU-based Symmetric Pseudo-Boolean SAT Solver",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.06641",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-08T12:36:27.017884+00:00",
+  "collected_at": "2026-06-08T12:36:27.017884+00:00",
+  "summary": "该论文提出了一种基于GPU的对称伪布尔SAT求解器AFSAT，通过加速傅里叶变换实现了高效的并行计算。核心价值在于显著提升了SAT问题的求解速度，尤其适用于大规模对称布尔公式。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-08T12:37:39.686263+00:00"
+}
