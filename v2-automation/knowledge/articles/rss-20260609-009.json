@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260609-009",
+  "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07718",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:19:04.884481+00:00",
+  "collected_at": "2026-06-09T11:19:04.884481+00:00",
+  "summary": "该论文通过案例研究评估AI代理在神经科学数据到发现流程中的应用，展示了AI如何自动化数据处理和科学发现。核心价值在于验证AI代理在复杂科研流程中的可行性和效率提升。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-09T11:20:16.752683+00:00"
+}

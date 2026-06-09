@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260609-016",
+  "title": "Beyond Goodhart's Law: A Dynamic Benchmark for Evaluating Compliance in Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.07805",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-09T11:19:04.884517+00:00",
+  "collected_at": "2026-06-09T11:19:04.884517+00:00",
+  "summary": "该论文提出了一种动态基准测试方法，用于评估多智能体系统在遵循指令时的合规性，以应对古德哈特定律（Goodhart's Law）带来的挑战。通过动态调整任务和评估标准，该方法能够更准确地衡量系统在真实场景中的表现，为多智能体系统的安全性和可靠性提供重要参考。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "evaluation",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-09T11:20:16.752705+00:00"
+}
