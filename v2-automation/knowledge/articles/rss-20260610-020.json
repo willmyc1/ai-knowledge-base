@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260610-020",
+  "title": "Sim2Schedule: A Simulator-Guided LLM Framework for Autonomous Open-Pit Mine Scheduling",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.10286",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-10T11:40:43.590952+00:00",
+  "collected_at": "2026-06-10T11:40:43.590952+00:00",
+  "summary": "该论文提出了一种名为Sim2Schedule的框架，利用模拟器引导的大型语言模型（LLM）来自动化露天矿的调度任务。核心价值在于通过模拟器与LLM的协同，提高了调度方案的生成效率和优化质量。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-10T11:42:05.295953+00:00"
+}
