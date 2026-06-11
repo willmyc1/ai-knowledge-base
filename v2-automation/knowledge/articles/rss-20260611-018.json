@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260611-018",
+  "title": "Lung-R1: A Knowledge Graph-Guided LLM for Pulmonary Diagnostic Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.11675",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-11T12:12:11.008151+00:00",
+  "collected_at": "2026-06-11T12:12:11.008151+00:00",
+  "summary": "Lung-R1 提出了一种结合知识图谱的 LLM 方法，用于肺部诊断推理，通过结构化医学知识增强模型在复杂诊断场景中的准确性和可解释性。该方法利用知识图谱引导 LLM 进行多步推理，提升了诊断逻辑的严谨性。该技术展示了知识图谱与 LLM 在医疗领域结合的巨大潜力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-11T12:13:33.235385+00:00"
+}
