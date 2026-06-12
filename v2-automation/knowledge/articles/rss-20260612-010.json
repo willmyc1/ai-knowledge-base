@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-010",
+  "title": "TrajGenAgent: A Hierarchical LLM Agent for Human Mobility Trajectory Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12657",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:45:27.943558+00:00",
+  "collected_at": "2026-06-12T11:45:27.943558+00:00",
+  "summary": "TrajGenAgent 提出了一种基于分层 LLM 代理的人类移动轨迹生成方法，通过将轨迹生成任务分解为高层意图规划和低层路径细化，提升了生成轨迹的真实性和多样性。该方法利用 LLM 的推理能力模拟人类移动行为，为城市计算和交通模拟提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:46:41.051534+00:00"
+}

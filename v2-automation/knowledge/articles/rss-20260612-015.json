@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260612-015",
+  "title": "The Theory of Mind Utility: Formal Specification of a Mentalizing Mechanism",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12721",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:45:27.943584+00:00",
+  "collected_at": "2026-06-12T11:45:27.943584+00:00",
+  "summary": "该论文提出了“心理理论效用”的形式化规范，旨在建模和实现智能体对他人心理状态（如信念、意图）的推理机制。这项工作为构建具备社会认知能力的AI系统提供了理论基础，有助于提升人机交互中的协作与理解能力。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "multi-agent"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-12T11:46:41.051549+00:00"
+}

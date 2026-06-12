@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-013",
+  "title": "Deployment-Centered Evaluation: Predicting Query-Level Rejection Risk in a Clinical LLM System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12702",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:45:27.943575+00:00",
+  "collected_at": "2026-06-12T11:45:27.943575+00:00",
+  "summary": "该论文提出了一种以部署为中心的评估方法，用于预测临床大语言模型（LLM）系统中查询级别的拒绝风险。核心价值在于通过量化风险，提升临床AI系统的安全性和可靠性，为实际部署提供决策支持。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:46:41.051544+00:00"
+}

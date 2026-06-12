@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260612-017",
+  "title": "Benchmarking AI Agents for Addressing Scientific Challenges Across Scales",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.12736",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-12T11:45:27.943593+00:00",
+  "collected_at": "2026-06-12T11:45:27.943593+00:00",
+  "summary": "该论文提出了一种用于评估AI代理在解决跨尺度科学挑战中表现的新基准。通过系统化的测试框架，它衡量了AI代理在从微观到宏观不同科学问题上的推理和工具使用能力，为AI在科学研究中的应用提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-12T11:46:41.051558+00:00"
+}
