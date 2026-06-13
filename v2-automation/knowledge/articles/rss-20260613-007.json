@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260613-007",
+  "title": "Introducing North Mini Code: Cohere’s First Model For Developers",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-13T10:32:22.871454+00:00",
+  "collected_at": "2026-06-13T10:32:22.871454+00:00",
+  "summary": "Cohere 发布了其首个面向开发者的模型 North Mini Code，旨在为开发者提供高效、易用的代码生成和辅助工具。该模型专注于代码相关任务，可能支持多种编程语言，并集成到开发工作流中，以提升开发效率。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:33:43.665628+00:00"
+}

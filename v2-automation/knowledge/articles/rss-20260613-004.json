@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260613-004",
+  "title": "Workers are spending over 6 hours a week botsitting AI, fueling job frustration",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.businessinsider.com/botsitting-ai-hidden-human-labor-at-work-2026-6",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-13T10:32:19.390076+00:00",
+  "collected_at": "2026-06-13T10:32:19.390076+00:00",
+  "summary": "该文章讨论了员工因需要频繁监控和纠正AI工作（即“botsitting”）而每周平均花费超过6小时，导致工作满意度下降和挫败感增加。核心价值在于揭示了AI部署中的人机协作痛点，强调自动化并非完全解放人力，反而可能引入新的管理负担。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-13T10:33:43.665618+00:00"
+}
