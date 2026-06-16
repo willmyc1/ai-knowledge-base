@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260616-010",
+  "title": "AI Engram: In Search of Memory Traces in Artificial Intelligence",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.14997",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-16T12:56:32.813846+00:00",
+  "collected_at": "2026-06-16T12:56:32.813846+00:00",
+  "summary": "该论文探讨了在人工智能系统中寻找类似生物记忆痕迹（engram）的概念，试图理解AI如何存储和检索信息。通过分析神经网络中的记忆表征，研究可能为改进AI的记忆机制和可解释性提供新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-16T12:57:41.791627+00:00"
+}
