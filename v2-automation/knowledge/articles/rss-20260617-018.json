@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260617-018",
+  "title": "LLM-as-Judge in Education: A Curriculum-Grounded Marking Pipeline",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17507",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:19:03.030192+00:00",
+  "collected_at": "2026-06-17T12:19:03.030192+00:00",
+  "summary": "该论文提出了一种基于课程标准的LLM评分流水线，用于教育场景中的自动评分。核心价值在于将大语言模型作为裁判，结合课程内容进行更准确的评估，提升教育自动化的公平性和一致性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:20:16.737817+00:00"
+}

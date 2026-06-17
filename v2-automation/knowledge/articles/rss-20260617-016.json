@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-016",
+  "title": "Dissecting model behavior through agent trajectories",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17454",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:19:03.030183+00:00",
+  "collected_at": "2026-06-17T12:19:03.030183+00:00",
+  "summary": "该论文通过分析智能体轨迹来剖析模型行为，提出了一种新的方法以理解模型在复杂任务中的决策过程。其核心价值在于为AI可解释性提供了基于轨迹的视角，有助于改进模型设计和调试。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:20:16.737811+00:00"
+}

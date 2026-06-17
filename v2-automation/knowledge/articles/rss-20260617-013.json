@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260617-013",
+  "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.17443",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-17T12:19:03.030171+00:00",
+  "collected_at": "2026-06-17T12:19:03.030171+00:00",
+  "summary": "该论文研究了大型语言模型（LLM）推荐系统中的品牌偏见和认知操纵动态，揭示了现有品牌如何利用模型的内在偏好获得不公平优势。核心价值在于为构建更公平、更透明的AI推荐系统提供了理论基础和实证分析。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-17T12:20:16.737802+00:00"
+}
