@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260619-020",
+  "title": "Denoising Implicit Feedback for Cold-start Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19658",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:09:10.893830+00:00",
+  "collected_at": "2026-06-19T12:09:10.893830+00:00",
+  "summary": "该论文提出了一种针对冷启动推荐系统中隐式反馈去噪的方法，通过改进用户行为数据的处理来提升推荐准确性。其核心价值在于解决了冷启动场景下数据稀疏和噪声干扰的难题，为推荐系统在初期阶段的性能优化提供了有效方案。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:10:28.383929+00:00"
+}

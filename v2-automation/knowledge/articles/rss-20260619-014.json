@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-014",
+  "title": "Analyzing the Narration Gap in LLM-Solver Loops",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19588",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:09:10.893803+00:00",
+  "collected_at": "2026-06-19T12:09:10.893803+00:00",
+  "summary": "本文探讨了大型语言模型（LLM）与求解器（solver）循环交互中的“叙述差距”问题，即LLM在描述求解过程时可能存在的信息缺失或不一致。通过分析这一现象，文章提出了改进LLM与外部工具协同工作的方法，以提升复杂任务解决的准确性和效率。该研究对于理解LLM在自动化推理和决策中的应用具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:10:28.383909+00:00"
+}

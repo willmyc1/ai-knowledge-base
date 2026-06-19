@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260619-007",
+  "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.19494",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-19T12:09:10.893766+00:00",
+  "collected_at": "2026-06-19T12:09:10.893766+00:00",
+  "summary": "该论文研究了多智能体LLM讨论中的隐藏锚定效应，揭示了早期发言或主导智能体如何影响集体决策。通过实验分析，提出了缓解锚定偏差的策略，提升了多智能体系统的协作质量。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-19T12:10:28.383887+00:00"
+}
