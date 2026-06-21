@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260621-010",
+  "title": "GLM-5.2: Built for Long-Horizon Tasks",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-21T11:18:28.560611+00:00",
+  "collected_at": "2026-06-21T11:18:28.560611+00:00",
+  "summary": "GLM-5.2 是一款专为长周期任务设计的大语言模型，通过优化推理和记忆能力，提升了在复杂、多步骤场景下的表现。该模型在 Hugging Face 上发布，为开发者提供了处理长期依赖任务的强大工具。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-21T11:19:42.980632+00:00"
+}

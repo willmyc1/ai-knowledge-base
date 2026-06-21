@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260621-006",
+  "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/peft-beyond-lora",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-21T11:18:28.560585+00:00",
+  "collected_at": "2026-06-21T11:18:28.560585+00:00",
+  "summary": "本文探讨了超越LoRA的微调技术，分析了是否有可能击败这一最流行的微调方法。文章提供了对当前微调技术前沿的深入见解，对于追求模型性能优化的研究人员具有参考价值。",
+  "score": 7,
+  "tags": [
+    "fine-tuning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-21T11:19:42.980619+00:00"
+}
