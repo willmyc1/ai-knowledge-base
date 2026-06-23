@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260623-006",
+  "title": "PEAR: Permutation-Equivariant Adaptive Routing Multi-Agent Debate",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.20621",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-23T11:20:01.578692+00:00",
+  "collected_at": "2026-06-23T11:20:01.578692+00:00",
+  "summary": "该论文提出了一种名为PEAR的排列等变自适应路由多智能体辩论方法，旨在通过动态调整智能体间的通信拓扑结构来提升多智能体系统的协作效率。其核心价值在于解决了传统固定路由策略在复杂任务中适应性不足的问题，为多智能体系统在推理和决策任务中的应用提供了新思路。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-23T11:21:10.379935+00:00"
+}
