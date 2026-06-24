@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260624-009",
+  "title": "Ensemble Feature Selection and Harris Hawks Optimization for Explainable Mental Health Risk Prediction in Female Sex Workers",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24047",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:52:55.144560+00:00",
+  "collected_at": "2026-06-24T10:52:55.144560+00:00",
+  "summary": "该论文提出了一种结合集成特征选择与哈里斯鹰优化算法的可解释性心理健康风险预测方法，专门针对女性性工作者群体。通过优化特征子集并提升模型可解释性，该方法在预测准确性与临床实用性之间取得了平衡，为敏感人群的心理健康干预提供了数据驱动支持。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:54:12.831885+00:00"
+}

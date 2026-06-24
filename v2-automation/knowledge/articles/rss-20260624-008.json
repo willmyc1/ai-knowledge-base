@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260624-008",
+  "title": "Breaking the Filter Bubble: A Semantic Pareto-DQN Framework for Multi-Objective Recommendation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24042",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:52:55.144558+00:00",
+  "collected_at": "2026-06-24T10:52:55.144558+00:00",
+  "summary": "提出一种基于语义帕累托深度Q网络的框架，用于多目标推荐系统，旨在打破信息茧房效应。该方法通过多目标优化平衡推荐准确性与多样性，提升用户体验。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:54:12.831884+00:00"
+}

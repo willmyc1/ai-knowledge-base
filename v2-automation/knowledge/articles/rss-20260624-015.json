@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-015",
+  "title": "T2D-Bench: Evidence-Gated Evaluation of LLM Outputs for Type 2 Diabetes Using a Multi-Layer Clinical-Lifestyle Knowledge Graph",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24145",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:52:55.144576+00:00",
+  "collected_at": "2026-06-24T10:52:55.144576+00:00",
+  "summary": "该论文提出了T2D-Bench基准，通过多层临床-生活方式知识图谱对LLM输出进行证据门控评估，专门针对2型糖尿病领域。核心价值在于结合临床知识和生活方式因素，提供更可靠和可解释的LLM评估方法。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "llm",
+    "rag"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:54:12.831899+00:00"
+}

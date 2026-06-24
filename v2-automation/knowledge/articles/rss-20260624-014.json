@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260624-014",
+  "title": "OmniPath: A Multi-Modal Agentic Framework for Auditing Wheelchair Accessibility",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24129",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-24T10:52:55.144574+00:00",
+  "collected_at": "2026-06-24T10:52:55.144574+00:00",
+  "summary": "OmniPath 提出了一种多模态智能体框架，用于审计轮椅无障碍设施。该框架通过集成视觉、语言和工具使用能力，自动评估环境中的无障碍问题，为提升城市包容性提供技术方案。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "vision",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-24T10:54:12.831897+00:00"
+}
