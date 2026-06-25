@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-006",
+  "title": "Diagnosing and Mitigating Compounding Failures in Agentic Persuasion via Taxonomic Strategy Retrieval",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.24976",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:45:20.840217+00:00",
+  "collected_at": "2026-06-25T10:45:20.840217+00:00",
+  "summary": "本文提出了一种通过分类策略检索来诊断和缓解代理说服中复合失败的方法。该方法通过识别和检索策略分类，帮助代理系统在说服任务中避免错误累积，提升整体表现。核心价值在于为代理系统的鲁棒性提供了一种系统性的改进框架。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:46:42.421964+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260625-009",
+  "title": "The Clinician's Veto: Navigating Trust, Liability, and Uncertainty in Autonomous AI Prescribing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.25108",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-25T10:45:20.840228+00:00",
+  "collected_at": "2026-06-25T10:45:20.840228+00:00",
+  "summary": "该论文探讨了在自主AI处方系统中，临床医生如何平衡信任、责任和不确定性的问题。核心内容是分析AI在医疗决策中的角色，以及如何通过临床医生的否决权来确保安全性和伦理合规性。价值在于为AI在医疗领域的应用提供了治理框架和风险管理思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-25T10:46:42.421970+00:00"
+}
