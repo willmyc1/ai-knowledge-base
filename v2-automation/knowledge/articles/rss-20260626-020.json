@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260626-020",
+  "title": "Accelerating Returns and the Qualitative Engine for Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26359",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:53:58.370085+00:00",
+  "collected_at": "2026-06-26T10:53:58.370085+00:00",
+  "summary": "该论文探讨了加速回报定律在科学发现中的应用，提出了一种定性引擎来推动科学进步。核心价值在于揭示了技术加速增长的模式，并强调了定性分析在科学创新中的关键作用。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:55:12.826834+00:00"
+}

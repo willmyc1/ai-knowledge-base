@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-016",
+  "title": "How Do Tool-Augmented LLM Agents Perform on Real-World Energy Analytics Tasks?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26346",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:53:58.370067+00:00",
+  "collected_at": "2026-06-26T10:53:58.370067+00:00",
+  "summary": "本文探讨了工具增强型大语言模型（LLM）代理在真实世界能源分析任务中的表现。通过评估代理在数据查询、模型调用和结果解释等环节的能力，揭示了当前LLM代理在专业领域应用中的优势与局限性。该研究为提升AI在能源等垂直行业的实用性和可靠性提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "tool-use",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:55:12.826824+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-009",
+  "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26173",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:53:58.370036+00:00",
+  "collected_at": "2026-06-26T10:53:58.370036+00:00",
+  "summary": "该论文提出AlgoEvolve框架，利用大型语言模型（LLM）驱动算法交易程序的元进化，通过自动生成和优化交易策略来提升性能。核心价值在于将LLM的推理能力与进化算法结合，实现交易程序的自动化迭代与改进。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-26T10:55:12.826800+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-011",
+  "title": "Knowledge-augmented Agentic AI for Mental Health Medication Information Seeking",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26205",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:53:58.370045+00:00",
+  "collected_at": "2026-06-26T10:53:58.370045+00:00",
+  "summary": "该论文提出了一种知识增强的智能体AI系统，用于心理健康领域的药物信息检索。通过结合外部知识库和智能体推理，系统能够更准确、可靠地回答患者关于精神科药物的查询，提升了信息可信度和安全性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "rag",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:55:12.826807+00:00"
+}

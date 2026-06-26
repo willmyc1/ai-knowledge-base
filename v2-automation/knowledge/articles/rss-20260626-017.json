@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260626-017",
+  "title": "What We are Missing in Multimodal LLM Evaluation?",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.26348",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-26T10:53:58.370071+00:00",
+  "collected_at": "2026-06-26T10:53:58.370071+00:00",
+  "summary": "该论文探讨了当前多模态大语言模型评估中的不足，指出现有评估方法未能全面覆盖模型的真实能力，特别是在跨模态理解、鲁棒性和实际应用场景方面存在盲区。文章提出了改进评估框架的方向，以更准确地反映模型性能，对推动多模态AI研究具有重要参考价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "vision",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-26T10:55:12.826826+00:00"
+}
