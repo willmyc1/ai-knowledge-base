@@ -1,0 +1,16 @@
+{
+  "id": "2026-06-26-006",
+  "title": "bytedance/deer-flow",
+  "source": "github",
+  "url": "https://github.com/bytedance/deer-flow",
+  "collected_at": "2026-06-26T04:02:41.343278+00:00",
+  "summary": "DeerFlow是字节跳动开源的一个长时域超级智能体框架，能够自主研究、编码和创作。它通过沙盒、记忆、工具、技能、子智能体和消息网关等组件，处理从几分钟到几小时的不同层次任务。该框架旨在实现复杂、长期的任务自动化，提升AI代理的自主性和效率。",
+  "tags": [
+    "智能体",
+    "自动化",
+    "开源"
+  ],
+  "relevance_score": 0.85,
+  "category": "agent",
+  "key_insight": "通过集成沙盒、记忆和子智能体等模块，DeerFlow实现了对长时域复杂任务的自主处理，突破了传统AI代理的短期任务限制。"
+}
