@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-002",
+  "title": "What happened after 2k people tried to hack my AI assistant",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-27T10:11:37.340840+00:00",
+  "collected_at": "2026-06-27T10:11:37.340840+00:00",
+  "summary": "该文章探讨了在2000人尝试攻击AI助手后，作者在安全防护方面的经验与教训，强调了AI系统面临的真实威胁及防御策略的重要性。内容提供了实用的安全加固建议，对构建稳健AI应用具有参考价值。",
+  "score": 7,
+  "tags": [
+    "security",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T10:12:56.174403+00:00"
+}

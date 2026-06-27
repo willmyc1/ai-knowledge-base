@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260627-009",
+  "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ffasr-leaderboard",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-06-27T10:11:43.205377+00:00",
+  "collected_at": "2026-06-27T10:11:43.205377+00:00",
+  "summary": "该博客介绍了FFASR排行榜，旨在真实世界场景下对自动语音识别（ASR）系统进行基准测试。它提供了标准化的评估框架，帮助开发者比较不同ASR模型在实际应用中的性能，推动ASR技术的实用化发展。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "audio"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-27T10:12:56.174417+00:00"
+}
