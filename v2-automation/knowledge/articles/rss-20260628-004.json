@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260628-004",
+  "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-06-28T10:29:30.738716+00:00",
+  "collected_at": "2026-06-28T10:29:30.738716+00:00",
+  "summary": "DSpark 提出了一种推测解码（speculative decoding）方法，旨在加速大型语言模型（LLM）的推理过程。该方法通过并行生成候选序列并验证，在不牺牲模型质量的前提下显著降低推理延迟，对提升 LLM 在实际应用中的效率具有重要价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-28T10:30:56.910081+00:00"
+}
