@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260629-019",
+  "title": "Lifted Causal Inference",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.28024",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:37:16.289904+00:00",
+  "collected_at": "2026-06-29T12:37:16.289904+00:00",
+  "summary": "该论文提出了一种基于提升（lifting）技术的因果推断方法，旨在利用对称性和抽象化来加速因果效应的计算。其核心价值在于为大规模因果图上的推断问题提供了更高效的解决方案。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-06-29T12:38:39.353730+00:00"
+}

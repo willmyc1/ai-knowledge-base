@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260629-017",
+  "title": "Verifiable Geometry Problem Solving: Solver-Driven Autoformalization and Theorem Proposing",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.27926",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-06-29T12:37:16.289896+00:00",
+  "collected_at": "2026-06-29T12:37:16.289896+00:00",
+  "summary": "该论文提出了一种基于求解器的自动形式化和定理提出方法，用于可验证的几何问题求解。通过将自然语言问题自动转化为形式化表述，并利用求解器进行验证，提升了几何推理的准确性和可解释性。核心价值在于为几何定理发现和自动推理提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-06-29T12:38:39.353725+00:00"
+}
