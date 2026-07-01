@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260701-005",
+  "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2606.30850",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-01T11:26:46.044590+00:00",
+  "collected_at": "2026-07-01T11:26:46.044590+00:00",
+  "summary": "BayesBench 提出了一个评估框架，用于衡量大语言模型在多轮证据积累下的信念轨迹，即模型如何根据逐步呈现的证据更新其预测。该工作通过贝叶斯推理视角，系统性地测试了LLM在复杂推理任务中的动态信念更新能力，为理解模型的不确定性校准和推理鲁棒性提供了新工具。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-01T11:27:58.539867+00:00"
+}
