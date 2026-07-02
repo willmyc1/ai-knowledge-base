@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260702-013",
+  "title": "Managed Autonomy at Runtime: Gear-Based Safety and Governance for Single- and Multi-Agent Cyber-Physical Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00334",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:43:13.451088+00:00",
+  "collected_at": "2026-07-02T10:43:13.451088+00:00",
+  "summary": "该论文提出了一种基于档位（Gear）的安全与治理机制，用于在运行时对单代理和多代理网络物理系统进行受控自治。核心价值在于通过动态调整代理的自主程度，确保系统在复杂环境中的安全性和合规性。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:44:12.265321+00:00"
+}

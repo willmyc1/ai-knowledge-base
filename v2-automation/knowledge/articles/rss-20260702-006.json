@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260702-006",
+  "title": "Solution space path planning for supporting en-route air traffic control",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.00064",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-02T10:43:13.451061+00:00",
+  "collected_at": "2026-07-02T10:43:13.451061+00:00",
+  "summary": "该论文提出了一种用于航路空中交通管制的解空间路径规划方法，通过优化飞行路径来提高空域利用效率和安全性。其核心价值在于为繁忙空域中的飞机提供更高效的路径规划方案，减少延误和冲突。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-02T10:44:12.265295+00:00"
+}
