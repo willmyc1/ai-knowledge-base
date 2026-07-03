@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260703-017",
+  "title": "EO-Agents: A Three-Agent LLM Pipeline for Earth Observation Hypothesis Generation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01584",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:38:40.609226+00:00",
+  "collected_at": "2026-07-03T10:38:40.609226+00:00",
+  "summary": "EO-Agents 提出了一种基于三个智能体的大语言模型流水线，用于地球观测假设生成。该方法通过多智能体协作，将 LLM 应用于遥感数据分析，提升了假设生成的自动化与准确性。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:40:03.799157+00:00"
+}

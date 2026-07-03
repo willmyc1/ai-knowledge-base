@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260703-015",
+  "title": "OPINE-World: Programmatic World Modeling with Ontology-error-Prioritized Interactive Exploration",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01531",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:38:40.609218+00:00",
+  "collected_at": "2026-07-03T10:38:40.609218+00:00",
+  "summary": "OPINE-World提出了一种基于本体错误优先的交互式探索方法，用于程序化世界建模。该方法通过优先探索与本体知识不一致的区域，高效构建准确的世界模型，在机器人导航和场景理解任务中展现出优越性能。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:40:03.799152+00:00"
+}

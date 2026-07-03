@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260703-002",
+  "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.01306",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-03T10:38:40.609123+00:00",
+  "collected_at": "2026-07-03T10:38:40.609123+00:00",
+  "summary": "PACE 提出了一种神经符号框架，用于生成合理且可操作的反事实解释。该框架结合了神经网络的模式识别能力和符号推理的因果逻辑，以提供更可信的 AI 决策解释。其核心价值在于提升 AI 系统的可解释性和用户信任。",
+  "score": 7,
+  "tags": [
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-03T10:40:03.799106+00:00"
+}
