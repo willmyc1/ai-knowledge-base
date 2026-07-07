@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260707-020",
+  "title": "Embodied Operators and Benchmarking: Toward Reusable and Deployable Embodied Intelligence Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.03283",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-07T11:09:47.642016+00:00",
+  "collected_at": "2026-07-07T11:09:47.642016+00:00",
+  "summary": "该论文提出了具身操作器（Embodied Operators）的概念，并构建了相应的基准测试框架，旨在推动具身智能系统的可复用性和可部署性。核心价值在于为具身智能研究提供了标准化的评估方法和可复用的操作模块，从而加速该领域从实验室研究向实际应用的转化。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-07T11:11:05.922988+00:00"
+}
