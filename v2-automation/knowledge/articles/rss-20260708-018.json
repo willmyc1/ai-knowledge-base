@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260708-018",
+  "title": "TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05804",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:21:12.410341+00:00",
+  "collected_at": "2026-07-08T10:21:12.410341+00:00",
+  "summary": "TurnOPD提出了一种面向长周期智能体训练的高效策略蒸馏方法，通过引入回合感知机制优化在线策略蒸馏过程。该方法解决了长周期任务中训练效率低下的问题，为复杂智能体训练提供了新的技术路径。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:22:37.552200+00:00"
+}

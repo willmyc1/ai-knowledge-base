@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-009",
+  "title": "FirstResearch: Auditable Question Formation for LLM Scientific Discovery Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05682",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:21:12.410303+00:00",
+  "collected_at": "2026-07-08T10:21:12.410303+00:00",
+  "summary": "该论文提出了一种可审计的问题形成机制，用于增强基于LLM的科学发现代理的可靠性和可解释性。通过引入结构化的问题生成与验证流程，该方法允许研究人员追溯和审计代理的推理步骤，从而提升科学发现的透明度。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:22:37.552169+00:00"
+}

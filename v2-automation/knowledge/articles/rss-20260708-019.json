@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-019",
+  "title": "Onnes: A Physics-Grounded Multi-Agent LLM Simulator for Cryogenic Fault Diagnosis in Quantum Computing Infrastructure",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05805",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:21:12.410346+00:00",
+  "collected_at": "2026-07-08T10:21:12.410346+00:00",
+  "summary": "该论文提出了一种名为Onnes的物理基础多智能体LLM模拟器，专门用于量子计算基础设施中的低温故障诊断。通过结合物理模拟与多智能体协作，Onnes能够有效识别和诊断低温系统中的复杂故障，提升量子计算系统的可靠性和维护效率。这项工作展示了LLM在特定工程领域中的创新应用，具有重要的实践价值。",
+  "score": 7,
+  "tags": [
+    "multi-agent",
+    "reasoning",
+    "llm"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:22:37.552203+00:00"
+}

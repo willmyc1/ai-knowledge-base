@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260708-012",
+  "title": "ArtisanCAD: An Industrial-Level CAD Agent with Expert-Grounded Knowledge Distillation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.05750",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-08T10:21:12.410316+00:00",
+  "collected_at": "2026-07-08T10:21:12.410316+00:00",
+  "summary": "ArtisanCAD 提出了一种工业级 CAD 代理，通过专家知识蒸馏技术，将领域专家的设计经验注入 AI 模型，从而提升 CAD 任务的自动化与准确性。该工作展示了在复杂工业设计场景中，结合知识蒸馏与代理架构的有效性，具有实际应用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-08T10:22:37.552182+00:00"
+}
