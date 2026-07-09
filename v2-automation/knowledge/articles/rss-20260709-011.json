@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-011",
+  "title": "Large Behavior Model: A Promptable Digital Twin of the Retail Customer",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06993",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:56:44.758397+00:00",
+  "collected_at": "2026-07-09T10:56:44.758397+00:00",
+  "summary": "该论文提出了一种大型行为模型（LBM），作为零售客户的可提示数字孪生，能够模拟和预测客户行为。其核心价值在于通过提示工程实现个性化客户交互，为零售业务提供决策支持。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:57:58.125392+00:00"
+}

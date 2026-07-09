@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-015",
+  "title": "Does AI Understand Imaging? A Systematic Benchmark of Agentic AI for Computational Imaging Tasks",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.07189",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:56:44.758414+00:00",
+  "collected_at": "2026-07-09T10:56:44.758414+00:00",
+  "summary": "该论文系统性地评估了AI代理在计算成像任务中的表现，提出了一个基准测试框架，揭示了当前AI在图像理解方面的能力与局限。其核心价值在于为计算成像领域的AI应用提供了标准化的评估方法。",
+  "score": 7,
+  "tags": [
+    "vision",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:57:58.125405+00:00"
+}

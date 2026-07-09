@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260709-009",
+  "title": "The Harness Effect: How Orchestration Design Sets the Token Economics of Enterprise Agentic AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06906",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:56:44.758388+00:00",
+  "collected_at": "2026-07-09T10:56:44.758388+00:00",
+  "summary": "本文探讨了编排设计如何影响企业级代理AI系统的代币经济，提出了“马具效应”概念，即通过优化编排策略来降低代币消耗并提升系统效率。核心价值在于为企业部署代理AI提供了一种经济高效的架构设计思路。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:57:58.125382+00:00"
+}

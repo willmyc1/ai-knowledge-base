@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260709-010",
+  "title": "Grounding Spatial Relations in a Compact World Model: Instruction Leakage and a Goal-Free Dynamics Fix",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.06925",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-09T10:56:44.758393+00:00",
+  "collected_at": "2026-07-09T10:56:44.758393+00:00",
+  "summary": "该论文提出了一种通过紧凑世界模型来建立空间关系的方法，并解决了指令泄露问题。通过无目标动力学修正，模型能够更准确地理解空间指令，提升了AI在物理世界中的推理能力。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-09T10:57:58.125389+00:00"
+}
