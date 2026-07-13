@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-001",
+  "title": "Ask HN: Add flag for AI-generated articles",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://news.ycombinator.com/item?id=48886741",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-13T11:14:06.268637+00:00",
+  "collected_at": "2026-07-13T11:14:06.268637+00:00",
+  "summary": "该内容提议为AI生成的文章添加标记，以帮助读者识别内容来源。这涉及内容标注和透明度问题，对AI内容管理和用户信任有实际价值。",
+  "score": 5,
+  "tags": [
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:15:20.413491+00:00"
+}

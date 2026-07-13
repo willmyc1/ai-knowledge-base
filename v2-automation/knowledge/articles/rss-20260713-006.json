@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260713-006",
+  "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.08773",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-13T11:14:07.096616+00:00",
+  "collected_at": "2026-07-13T11:14:07.096616+00:00",
+  "summary": "本文提出了一种通过格遍历为多层感知机（MLP）提供区间认证的方法，旨在验证神经网络在输入扰动下的输出范围。该技术对于提高MLP在安全关键应用中的可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-13T11:15:20.413517+00:00"
+}
