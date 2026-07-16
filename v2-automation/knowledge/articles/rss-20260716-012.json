@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-012",
+  "title": "Networked Intelligence: Active Shared Context Graphs for Human-AI Team Science",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13220",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:10:42.735445+00:00",
+  "collected_at": "2026-07-16T10:10:42.735445+00:00",
+  "summary": "该论文提出了一种名为“网络化智能”的框架，通过构建主动共享上下文图来增强人机团队协作中的AI系统能力。核心价值在于利用动态上下文图实现人类与AI之间的实时信息共享与协同推理，从而提升团队科学研究的效率与质量。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:37.665001+00:00"
+}

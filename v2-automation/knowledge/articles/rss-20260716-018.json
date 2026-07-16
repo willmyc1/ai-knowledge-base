@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260716-018",
+  "title": "Set-shifting Behavioral Test for Harnessed Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.13396",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-16T10:10:42.735470+00:00",
+  "collected_at": "2026-07-16T10:10:42.735470+00:00",
+  "summary": "该论文提出了一种针对受限智能体的集合转换行为测试方法，用于评估智能体在任务切换和认知灵活性方面的表现。该测试为智能体行为分析提供了标准化评估工具，有助于理解智能体的适应性和决策能力。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-16T10:11:37.665022+00:00"
+}
