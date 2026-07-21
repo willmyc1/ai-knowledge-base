@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260721-020",
+  "title": "A Survey on the Verification of Reinforcement Learning Policies",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.16210",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-21T10:26:53.552373+00:00",
+  "collected_at": "2026-07-21T10:26:53.552373+00:00",
+  "summary": "该论文综述了强化学习策略验证领域的研究进展，系统梳理了验证方法、挑战和未来方向。对于确保强化学习在安全关键应用中的可靠性具有重要价值。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-21T10:28:01.068929+00:00"
+}
