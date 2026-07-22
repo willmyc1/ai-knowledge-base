@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260722-015",
+  "title": "Semantic Cooperative Games for Contribution Attribution in LLM-Based Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.18255",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-22T10:27:20.220066+00:00",
+  "collected_at": "2026-07-22T10:27:20.220066+00:00",
+  "summary": "该论文提出了一种基于语义合作博弈的方法，用于在基于LLM的多智能体系统中归因贡献。它通过将智能体间的交互建模为合作博弈，并利用语义相似度来分配贡献分数，从而提升系统的可解释性和公平性。该方法为理解和优化多智能体协作提供了新的理论框架。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-22T10:28:26.185081+00:00"
+}
