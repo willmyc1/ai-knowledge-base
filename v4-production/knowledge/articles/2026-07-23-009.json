@@ -1,0 +1,18 @@
+{
+  "id": "2026-07-23-009",
+  "title": "hiyouga/LlamaFactory",
+  "source": "github",
+  "url": "https://github.com/hiyouga/LlamaFactory",
+  "collected_at": "2026-07-23T03:15:10.058635+00:00",
+  "summary": "LlamaFactory 是一个统一的高效微调框架，支持对超过100种大语言模型（LLMs）和多模态大模型（VLMs）进行微调。该项目被ACL 2024收录，提供了灵活的配置和多种微调方法（如LoRA、QLoRA等），旨在简化模型适配和部署流程，提升训练效率。",
+  "tags": [
+    "LLM",
+    "微调",
+    "框架",
+    "多模态",
+    "高效训练"
+  ],
+  "relevance_score": 0.9,
+  "category": "framework",
+  "key_insight": "通过统一接口和高效微调技术，LlamaFactory大幅降低了大规模模型适配的门槛，是当前最全面的开源微调工具之一。"
+}
