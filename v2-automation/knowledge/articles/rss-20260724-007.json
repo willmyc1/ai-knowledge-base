@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260724-007",
+  "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.20462",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-24T10:20:56.850524+00:00",
+  "collected_at": "2026-07-24T10:20:56.850524+00:00",
+  "summary": "该论文评估了在医疗文本中应用LLM水印技术的效果，发现现有水印方法可能错误标记症状，影响医疗文本的准确性和可靠性。研究揭示了水印技术在专业领域应用中的潜在风险，为改进水印算法提供了重要参考。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "security"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-24T10:21:58.139901+00:00"
+}
