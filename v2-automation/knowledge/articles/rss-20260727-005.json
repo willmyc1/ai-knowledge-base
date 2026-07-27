@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260727-005",
+  "title": "Risk Is Not the Target: A Monotonic Framework for Evaluating Wildfire Operational Risk Signals",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.21597",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-27T11:26:17.140050+00:00",
+  "collected_at": "2026-07-27T11:26:17.140050+00:00",
+  "summary": "该论文提出了一种单调框架，用于评估野火操作风险信号，旨在将风险作为非目标变量进行建模，以提高预测的可靠性和可解释性。核心价值在于为野火风险管理提供了一种新的方法论，通过单调性约束确保风险信号与真实风险趋势一致，从而支持更有效的决策。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-27T11:27:26.129967+00:00"
+}
