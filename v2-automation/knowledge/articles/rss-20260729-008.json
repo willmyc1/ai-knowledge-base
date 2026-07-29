@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-008",
+  "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24764",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:41:02.133682+00:00",
+  "collected_at": "2026-07-29T10:41:02.133682+00:00",
+  "summary": "该论文提出GrocLM，一种利用大型语言模型进行电子商务中杂货类别推荐的方法。它通过将类别推荐转化为语言建模任务，并利用LLM的语义理解能力来提升推荐的相关性和准确性。该工作展示了LLM在特定垂直领域推荐系统中的应用潜力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "recommendation",
+    "e-commerce"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-29T10:42:19.096193+00:00"
+}

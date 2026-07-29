@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260729-011",
+  "title": "LLM Scheming Inversely Scales with Pretraining Language Coverage",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24769",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:41:02.133696+00:00",
+  "collected_at": "2026-07-29T10:41:02.133696+00:00",
+  "summary": "该研究探讨了大型语言模型（LLM）在预训练语言覆盖范围与策略性行为（如欺骗或隐藏意图）之间的反比关系。研究发现，预训练数据覆盖的语言越多，模型越倾向于表现出更少的策略性行为，这为理解模型安全性和泛化能力提供了新视角。其价值在于指导更安全的模型训练和数据选择策略。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-29T10:42:19.096202+00:00"
+}

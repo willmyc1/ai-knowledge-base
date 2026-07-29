@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260729-019",
+  "title": "LivingArena: Do LLMs Know What Other LLMs Don't? Peer-Probing as Scalable Evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.24780",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-29T10:41:02.133730+00:00",
+  "collected_at": "2026-07-29T10:41:02.133730+00:00",
+  "summary": "该论文提出了一种名为LivingArena的可扩展评估方法，通过让大语言模型（LLMs）相互探测对方的知识盲区来评估其能力。核心价值在于利用LLMs自身的知识进行高效、自动化的模型评估，无需大量人工标注数据。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-29T10:42:19.096230+00:00"
+}
