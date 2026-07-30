@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-017",
+  "title": "Evidence-Ledger Adjudication for Claim-Evidence Traceability",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26512",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323883+00:00",
+  "collected_at": "2026-07-30T10:26:46.323883+00:00",
+  "summary": "该论文提出了一种基于证据账本（Evidence-Ledger）的裁决机制，用于实现声明-证据的可追溯性。核心价值在于通过区块链或分布式账本技术，确保AI系统做出的声明（如决策或推理结果）能够与支撑其的证据进行不可篡改的关联和追溯，从而增强AI系统的可信度和可审计性。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888302+00:00"
+}

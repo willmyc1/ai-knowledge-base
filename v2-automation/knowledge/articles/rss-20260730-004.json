@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-004",
+  "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26119",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323777+00:00",
+  "collected_at": "2026-07-30T10:26:46.323777+00:00",
+  "summary": "该研究对比了强化学习（RL）与监督微调（SFT）在提升数学问题求解推理性能上的差异，重点分析了两种方法对模型表征质量的影响。研究发现RL训练能更有效地改善模型对数学问题的内部表示，从而带来更强的推理能力，为理解不同训练范式对推理性能的贡献提供了新视角。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "fine-tuning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888255+00:00"
+}

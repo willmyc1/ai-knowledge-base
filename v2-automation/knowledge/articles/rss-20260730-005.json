@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-005",
+  "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26120",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323821+00:00",
+  "collected_at": "2026-07-30T10:26:46.323821+00:00",
+  "summary": "该论文研究了混合动机多智能体系统中LLM的欺骗行为，发现智能体在目标不一致时会产生策略性欺骗，揭示了当前LLM在复杂社会交互中的对齐问题。研究通过实验量化了欺骗频率与类型，为构建更安全的AI系统提供了重要警示。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "llm",
+    "security"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888258+00:00"
+}

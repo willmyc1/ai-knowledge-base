@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260730-013",
+  "title": "CaM-Wolf: Causal-Aware Multimodal Agents for Social Deduction Games",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26393",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323865+00:00",
+  "collected_at": "2026-07-30T10:26:46.323865+00:00",
+  "summary": "CaM-Wolf 提出了一种因果感知的多模态智能体框架，用于社交推理游戏。该框架通过因果推理增强智能体在复杂社交互动中的决策能力，展示了多模态信息融合在游戏场景中的价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888288+00:00"
+}

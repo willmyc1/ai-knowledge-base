@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-007",
+  "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26159",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323837+00:00",
+  "collected_at": "2026-07-30T10:26:46.323837+00:00",
+  "summary": "该论文探讨了AI评估中基准测试的可组合性问题，即单个基准测试的推理结果无法直接组合成更复杂场景下的可靠评估。研究提出了“可投影性”概念，用于衡量评估结果在不同任务间的泛化能力，对构建更可靠的AI评估体系具有重要价值。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888265+00:00"
+}

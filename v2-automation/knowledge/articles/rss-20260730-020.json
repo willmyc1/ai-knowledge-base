@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260730-020",
+  "title": "AlphaSchema: Exploring the Space of Trading Semantics for LLM-Based Alpha Mining",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.26642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-07-30T10:26:46.323895+00:00",
+  "collected_at": "2026-07-30T10:26:46.323895+00:00",
+  "summary": "该论文提出AlphaSchema框架，利用大语言模型（LLM）探索交易语义空间以挖掘alpha因子。核心价值在于将LLM应用于量化金融的因子发现，通过语义搜索提升alpha挖掘的效率和多样性。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-30T10:27:50.888309+00:00"
+}
