@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260731-003",
+  "title": "GCC steering committee announces AI policy",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://lwn.net/Articles/1086041/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T10:41:27.930935+00:00",
+  "collected_at": "2026-07-31T10:41:27.930935+00:00",
+  "summary": "GCC 指导委员会发布了关于 AI 的政策，明确了在 GCC 开发中应用 AI 的指导原则和限制。该政策旨在规范 AI 工具的使用，确保代码质量和项目治理的透明度。",
+  "score": 7,
+  "tags": [
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:42:44.925728+00:00"
+}

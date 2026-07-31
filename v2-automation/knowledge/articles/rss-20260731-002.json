@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260731-002",
+  "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://github.com/AminBlg/SimpleEnglish",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-07-31T10:41:27.930925+00:00",
+  "collected_at": "2026-07-31T10:41:27.930925+00:00",
+  "summary": "本文介绍了如何为AI代理添加技能，以强制生成符合ASD-STE100简化技术英语标准的文档。该技能可能通过规则引擎或提示工程实现，旨在提高技术文档的规范性和可读性。对于需要生成合规技术内容的行业具有实用价值。",
+  "score": 7,
+  "tags": [
+    "agent",
+    "prompt-engineering",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-07-31T10:42:44.925723+00:00"
+}
