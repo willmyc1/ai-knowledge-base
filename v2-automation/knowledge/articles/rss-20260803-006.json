@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260803-006",
+  "title": "ThinkReset: Learnable Intermediate Interface Construction for Bounded-Context Long-Horizon Reasoning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2607.28642",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-03T11:26:36.735761+00:00",
+  "collected_at": "2026-08-03T11:26:36.735761+00:00",
+  "summary": "该论文提出了一种名为ThinkReset的可学习中间接口构建方法，旨在解决有界上下文下的长时推理问题。通过引入可学习的重置机制，模型能够在推理过程中动态构建中间表示，从而突破上下文长度限制，提升推理性能。该方法为长时推理任务提供了新的技术路径，具有较高的实用价值。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-03T11:27:50.043641+00:00"
+}
