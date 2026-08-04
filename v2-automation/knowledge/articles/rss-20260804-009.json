@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-009",
+  "title": "Optimization and Constraint Modeling using LLMs with a Retrieval Augmented Generation Process",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00015",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:41:49.865483+00:00",
+  "collected_at": "2026-08-04T10:41:49.865483+00:00",
+  "summary": "本文探讨了利用大型语言模型（LLMs）结合检索增强生成（RAG）流程来优化和约束建模的方法。通过RAG，LLMs能够访问外部知识库，从而更准确地生成满足特定约束的优化方案，提高了建模的准确性和实用性。该研究为复杂优化问题的自动化求解提供了新思路。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "rag",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-04T10:42:55.626869+00:00"
+}

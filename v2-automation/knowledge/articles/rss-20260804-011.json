@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260804-011",
+  "title": "Request-Level Energy Attribution for Batched LLM Serving",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.00026",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-04T10:41:49.865488+00:00",
+  "collected_at": "2026-08-04T10:41:49.865488+00:00",
+  "summary": "该论文提出了一种针对批处理LLM服务的请求级能量归因方法，旨在精确追踪每个请求在共享批处理环境中的能耗，为优化能效和成本分配提供依据。其核心价值在于解决批处理场景下能耗分配不透明的问题，推动绿色AI和可持续计算的发展。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-04T10:42:55.626875+00:00"
+}
