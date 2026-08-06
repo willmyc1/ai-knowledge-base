@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-016",
+  "title": "NeuMoSync: End-to-End Neuromodulatory Control for Plasticity and Adaptability in Continual Learning",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04358",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:41:32.178526+00:00",
+  "collected_at": "2026-08-06T10:41:32.178526+00:00",
+  "summary": "NeuMoSync 提出了一种端到端的神经调制控制方法，用于增强持续学习中的可塑性和适应性。该方法通过模拟生物神经调制机制，动态调节网络参数更新，从而缓解灾难性遗忘并提升学习效率。其核心价值在于为持续学习提供了一种新颖的、生物启发的解决方案。",
+  "score": 8,
+  "tags": [
+    "fine-tuning",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:42:42.171365+00:00"
+}

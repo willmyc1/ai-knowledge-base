@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-015",
+  "title": "SafeCommit: Certifying When Memory-Grounded Agents May Safely Act",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04289",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:41:32.178508+00:00",
+  "collected_at": "2026-08-06T10:41:32.178508+00:00",
+  "summary": "该论文提出SafeCommit框架，用于认证记忆型AI代理在何种条件下可以安全地执行动作，通过形式化验证确保代理行为不会违反安全约束。该工作增强了代理系统的可靠性，为安全关键场景中的自主决策提供了理论保障。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:42:42.171363+00:00"
+}

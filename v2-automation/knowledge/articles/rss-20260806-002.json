@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260806-002",
+  "title": "Born Against, or why hobby programming communities are against LLM usage",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://blog.fogus.me/llm/born-against.html",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-06T10:41:31.176320+00:00",
+  "collected_at": "2026-08-06T10:41:31.176320+00:00",
+  "summary": "本文探讨了业余编程社区为何抵制使用大型语言模型（LLM），分析了技术、伦理和社区文化等多方面原因。文章提供了对LLM在编程领域应用局限性的深入见解，有助于理解技术社区的态度和未来发展方向。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "code-generation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-06T10:42:42.171330+00:00"
+}

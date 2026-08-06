@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-006",
+  "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04066",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:41:32.178452+00:00",
+  "collected_at": "2026-08-06T10:41:32.178452+00:00",
+  "summary": "该论文提出了一种自验证的智能体工具，通过分离承诺漂移与绑定漂移来增强长时程智能体的稳定性。其核心价值在于提供了一种新的机制，使智能体在长期任务中能够自我验证并减少错误累积，从而提升任务执行的可靠性。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "llm",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:42:42.171339+00:00"
+}

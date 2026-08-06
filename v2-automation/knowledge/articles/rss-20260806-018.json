@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260806-018",
+  "title": "Architectural Implications of Agentic AI Workflows",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.04458",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-06T10:41:32.178533+00:00",
+  "collected_at": "2026-08-06T10:41:32.178533+00:00",
+  "summary": "该论文探讨了代理式AI工作流对系统架构的影响，分析了其计算、内存和网络需求，并提出了针对性的架构设计建议。它为构建高效、可扩展的代理系统提供了重要参考。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-06T10:42:42.171370+00:00"
+}
