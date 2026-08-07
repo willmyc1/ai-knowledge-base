@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260807-013",
+  "title": "Otter: A Time-Aware, History-Conditioned Human Chess AI",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.05206",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-07T09:01:17.165851+00:00",
+  "collected_at": "2026-08-07T09:01:17.165851+00:00",
+  "summary": "Otter 提出了一种时间感知、历史条件化的人类象棋 AI 方法，通过利用对局历史和时间信息来提升 AI 模拟人类棋手行为的能力。该方法在象棋 AI 领域具有创新性，为构建更自然的人机交互系统提供了新思路。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-07T09:02:26.527675+00:00"
+}
