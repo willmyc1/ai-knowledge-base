@@ -1,0 +1,18 @@
+{
+  "id": "2026-08-08-008",
+  "title": "OpenHands/OpenHands",
+  "source": "github",
+  "url": "https://github.com/OpenHands/OpenHands",
+  "collected_at": "2026-08-08T01:51:03.886481+00:00",
+  "summary": "OpenHands（原 OpenDevin）是一个开源的 AI 驱动开发平台，旨在通过 AI 智能体（agent）协助开发者完成编码、调试、代码审查等软件开发任务。它提供了一个交互式界面，支持用户与 AI 协作，并集成了多种大语言模型（LLM）后端。项目强调透明性和可控性，允许用户实时查看 AI 的操作过程。其核心功能包括代码生成、文件操作、命令执行和 Web 浏览等，旨在提升开发效率。该项目在 GitHub 上活跃，社区贡献度高，是 AI 辅助编程领域的重要开源项目之一。",
+  "tags": [
+    "AI编程",
+    "智能体",
+    "开源",
+    "开发工具",
+    "LLM"
+  ],
+  "relevance_score": 0.95,
+  "category": "agent",
+  "key_insight": "OpenHands 通过构建通用 AI 智能体，将 LLM 与开发环境深度集成，实现从代码生成到执行的端到端自动化，代表了 AI 辅助开发从插件式工具向自主智能体演进的趋势。"
+}
