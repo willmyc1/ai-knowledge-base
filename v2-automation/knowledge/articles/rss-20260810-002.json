@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260810-002",
+  "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06398",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:24:59.988112+00:00",
+  "collected_at": "2026-08-10T09:24:59.988112+00:00",
+  "summary": "EntropyMoE 提出了一种基于熵感知的稀疏专家路由机制，用于无分词器的大语言模型，通过动态分配计算资源到高熵（信息丰富）的 token 来提升推理效率和性能。该方法在保持模型质量的同时降低了计算开销，为高效 LLM 设计提供了新思路。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "reasoning"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-10T09:27:05.559878+00:00"
+}

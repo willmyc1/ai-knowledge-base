@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260810-019",
+  "title": "AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.06699",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-10T09:24:59.988187+00:00",
+  "collected_at": "2026-08-10T09:24:59.988187+00:00",
+  "summary": "AgentPatch 提出了一种从粗到细的弱任务修复方法，用于合并多个智能体多模态大语言模型，以提升模型在复杂任务中的综合能力。该方法通过分阶段修复不同粒度的任务缺陷，有效整合各模型的优势，具有重要的实用价值。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "multi-agent",
+    "vision"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-10T09:27:05.559920+00:00"
+}
