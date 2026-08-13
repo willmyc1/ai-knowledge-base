@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260813-020",
+  "title": "Synchronizing Beliefs with Second-Order Theory-of-Mind in Human-Autonomy Teams (Extended Version)",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11229",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-13T09:14:33.341893+00:00",
+  "collected_at": "2026-08-13T09:14:33.341893+00:00",
+  "summary": "本文探讨了在人机协同团队中，通过二阶心理理论（即理解他人对自己信念的信念）来同步信念，以提升团队协作效率。研究提出了一种新的方法，使AI代理能够更准确地预测和适应人类队友的认知状态，从而增强人机交互的协调性和信任度。该工作为构建更智能、更自然的人机协作系统提供了理论基础和实践指导。",
+  "score": 8,
+  "tags": [
+    "multi-agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-13T09:15:37.884720+00:00"
+}
