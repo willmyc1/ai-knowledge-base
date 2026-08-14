@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260814-019",
+  "title": "LinearKV: One Cached State Suffices for Position-Independent Caching in Hybrid LLMs",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.11231",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-14T09:08:50.498607+00:00",
+  "collected_at": "2026-08-14T09:08:50.498607+00:00",
+  "summary": "LinearKV 提出了一种针对混合大型语言模型（LLMs）的位置无关缓存方法，仅需一个缓存状态即可实现高效推理，显著降低缓存开销并提升长序列处理性能。该方法通过简化缓存机制，解决了传统KV缓存中位置依赖导致的存储和计算瓶颈，为混合架构LLM的部署提供了更优的解决方案。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-14T09:09:59.781776+00:00"
+}
