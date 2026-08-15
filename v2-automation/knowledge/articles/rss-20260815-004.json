@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-004",
+  "title": "Diagnostic Foundation for Evaluating LLMs' Research Integrity as Co-Scientists",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12345",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:31:08.342059+00:00",
+  "collected_at": "2026-08-15T08:31:08.342059+00:00",
+  "summary": "该论文提出了一种诊断性基础框架，用于评估大型语言模型（LLMs）作为共同科学家时的研究诚信，涵盖数据完整性、方法透明度和结果可重复性等维度。该框架通过结构化诊断测试，帮助识别模型在科研协作中的潜在偏见和错误，为安全可靠地使用AI辅助研究提供了评估工具。其核心价值在于填补了LLM科研伦理评估的空白，促进负责任AI在学术领域的应用。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:32:15.107055+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-011",
+  "title": "Learning to Adapt Cross-Domain Preferences via Meta-LoRA for LLM Personalization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12389",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:31:08.342107+00:00",
+  "collected_at": "2026-08-15T08:31:08.342107+00:00",
+  "summary": "该论文提出了一种基于元学习的跨域偏好适应方法（Meta-LoRA），用于大型语言模型的个性化。通过在不同领域间学习共享的元知识，并利用低秩适应（LoRA）快速调整模型参数，该方法能够高效地适应新用户的偏好，提升了个性化效果和泛化能力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:32:15.107082+00:00"
+}

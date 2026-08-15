@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260815-013",
+  "title": "Large Language Models Can Follow Instructions, But Not Many at Once: Phase Transitions in Compositional Constraint Satisfaction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12426",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:31:08.342116+00:00",
+  "collected_at": "2026-08-15T08:31:08.342116+00:00",
+  "summary": "该研究揭示了大型语言模型在遵循组合约束时存在相变现象，即当指令中的约束数量超过某个阈值时，模型的遵循能力会急剧下降。这一发现对理解LLM的指令遵循机制和设计更有效的提示策略具有重要意义。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "evaluation"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:32:15.107089+00:00"
+}

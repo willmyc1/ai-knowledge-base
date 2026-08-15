@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260815-003",
+  "title": "Position: Reasoning is a Learnable Rule-Based Process",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.12325",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-15T08:31:08.342028+00:00",
+  "collected_at": "2026-08-15T08:31:08.342028+00:00",
+  "summary": "该论文提出推理是一种可学习的基于规则的过程，挑战了传统观点，强调通过规则学习和训练来提升模型推理能力。其核心价值在于为AI推理机制提供新的理论视角和实用方法，有望推动推理模型的发展。",
+  "score": 8,
+  "tags": [
+    "reasoning",
+    "llm"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-15T08:32:15.107051+00:00"
+}
