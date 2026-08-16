@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260816-010",
+  "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
+  "source": "rss:Hugging Face Blog",
+  "source_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+  "author": "Hugging Face Blog",
+  "published_at": "2026-08-16T08:31:48.098885+00:00",
+  "collected_at": "2026-08-16T08:31:48.098885+00:00",
+  "summary": "该文章探讨了如何通过更少的token实现类似ACE（Agentic Context Engineering）的效果，可能涉及优化上下文工程或提示词策略，以提升AI代理的效率。其价值在于提供了一种成本更低、更高效的替代方案，适合关注LLM应用优化的开发者。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "prompt-engineering",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-16T08:32:47.317503+00:00"
+}
