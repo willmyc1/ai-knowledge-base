@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260817-017",
+  "title": "MobileMem: Learning from a Year of Mobile Experiences",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.13606",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-17T08:45:30.628496+00:00",
+  "collected_at": "2026-08-17T08:45:30.628496+00:00",
+  "summary": "MobileMem 论文基于一年移动设备使用数据，提出了一种移动端记忆管理机制，旨在提升 AI 助手的个性化与上下文感知能力。该研究通过分析真实用户交互，为移动 AI 系统设计提供了实证基础，具有较高的工程参考价值。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "agent",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-17T08:46:28.610004+00:00"
+}
