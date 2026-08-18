@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-017",
+  "title": "Longitudinal and Graph-Augmented Prediction of Adolescent Substance Use Onset in the ABCD Study",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14578",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:39:13.262202+00:00",
+  "collected_at": "2026-08-18T08:39:13.262202+00:00",
+  "summary": "该研究利用ABCD纵向数据集，结合图增强方法预测青少年物质使用起始时间，展示了图神经网络在时序预测中的潜力。其核心价值在于将多模态数据（如神经影像、行为数据）整合为图结构，提升了预测准确性，为早期干预提供了技术支持。",
+  "score": 7,
+  "tags": [
+    "reasoning",
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:40:22.223576+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "id": "rss-20260818-011",
+  "title": "Position: AI Lock-In Is in Progress, and We Must Be Prepared",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14565",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:39:13.262182+00:00",
+  "collected_at": "2026-08-18T08:39:13.262182+00:00",
+  "summary": "该论文指出AI技术锁定（lock-in）现象正在发生，即用户和组织对特定AI平台或模型的依赖日益加深，可能导致竞争减少和创新受限。作者呼吁业界和研究者提前准备，通过开放标准、可移植性和互操作性等措施来缓解锁定风险，确保AI生态的健康发展。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:40:22.223560+00:00"
+}

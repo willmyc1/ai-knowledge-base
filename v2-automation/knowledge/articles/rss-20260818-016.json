@@ -1,0 +1,17 @@
+{
+  "id": "rss-20260818-016",
+  "title": "Position: Want Better ML Reviews? Stop Asking Nicely and Start Incentivizing with a Credit System",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14571",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:39:13.262199+00:00",
+  "collected_at": "2026-08-18T08:39:13.262199+00:00",
+  "summary": "该论文提出了一种基于信用系统的机器学习评审激励机制，旨在通过经济激励而非礼貌请求来提高评审质量和参与度。该系统为评审者分配信用积分，并根据评审质量和及时性进行奖惩，从而鼓励更积极和高质量的评审行为。这一方法有望改善当前ML社区评审效率低下的问题，促进更健康的学术交流环境。",
+  "score": 7,
+  "tags": [
+    "evaluation"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-18T08:40:22.223573+00:00"
+}

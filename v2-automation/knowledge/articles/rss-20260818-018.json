@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260818-018",
+  "title": "SKILL: Self-correcting Knowledge-guided Iterative Large Language Model Agent for Logic Optimization",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.14579",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-18T08:39:13.262205+00:00",
+  "collected_at": "2026-08-18T08:39:13.262205+00:00",
+  "summary": "该论文提出SKILL，一种基于知识引导的自校正迭代大语言模型代理，用于逻辑优化任务。通过迭代自我修正和知识引导，SKILL能够提升逻辑综合的效率和效果，展示了LLM在电子设计自动化领域的应用潜力。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "agent",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-18T08:40:22.223578+00:00"
+}
