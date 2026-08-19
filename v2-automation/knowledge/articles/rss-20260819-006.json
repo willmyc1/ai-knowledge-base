@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-006",
+  "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.16891",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:39:34.297157+00:00",
+  "collected_at": "2026-08-19T08:39:34.297157+00:00",
+  "summary": "该论文提出了一种针对代理型AI的运行时治理框架，通过动作边界控制、可信来源验证和失败关闭执行机制，确保AI代理在复杂环境中的安全性和可控性。该框架旨在解决代理型AI在自主决策过程中的风险问题，为安全部署提供技术保障。",
+  "score": 8,
+  "tags": [
+    "agent",
+    "security",
+    "deployment"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:40:39.188347+00:00"
+}

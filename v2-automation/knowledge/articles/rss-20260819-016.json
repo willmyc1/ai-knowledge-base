@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-016",
+  "title": "KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17150",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:39:34.297207+00:00",
+  "collected_at": "2026-08-19T08:39:34.297207+00:00",
+  "summary": "KnowSim 提出了一种利用用户模拟器评估 LLM 助手信息校准能力的新方法，通过模拟用户学习过程来更真实地测试模型在对话中的信息传递准确性。该方法有助于提升 AI 助手的可靠性和用户体验，对对话系统评估领域具有重要价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "evaluation",
+    "agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:40:39.188383+00:00"
+}

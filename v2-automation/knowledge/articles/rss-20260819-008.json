@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-008",
+  "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.16971",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:39:34.297171+00:00",
+  "collected_at": "2026-08-19T08:39:34.297171+00:00",
+  "summary": "FedPref 提出了一种联邦偏好学习方法，用于结构化放射学报告提取，能够在保护数据隐私的同时提升提取准确性。该方法通过联邦学习框架整合多中心医疗数据，并利用偏好学习优化报告生成，具有重要的临床应用价值。",
+  "score": 8,
+  "tags": [
+    "llm",
+    "fine-tuning",
+    "vision"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-19T08:40:39.188355+00:00"
+}

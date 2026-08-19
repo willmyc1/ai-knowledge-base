@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260819-020",
+  "title": "Explicit State Elicitation Is Not Enough: A Controlled Audit of Memory-Policy Classification",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.17247",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-19T08:39:34.297224+00:00",
+  "collected_at": "2026-08-19T08:39:34.297224+00:00",
+  "summary": "该论文指出，仅通过显式状态引导（如提示词）不足以实现有效的记忆策略分类，并通过对记忆策略分类的受控审计，揭示了现有方法在分类准确性和鲁棒性上的不足。研究提出了改进方向，强调需要更精细的隐式状态建模或训练策略，以提升AI系统在复杂任务中的记忆管理能力。",
+  "score": 7,
+  "tags": [
+    "llm",
+    "evaluation",
+    "reasoning"
+  ],
+  "audience": "advanced",
+  "status": "review",
+  "updated_at": "2026-08-19T08:40:39.188393+00:00"
+}
