@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-005",
+  "title": "Position: Current Model Cards Are Insufficient for Downstream Governance of Open-Weight Foundation Models",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18086",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:40:34.297951+00:00",
+  "collected_at": "2026-08-20T08:40:34.297951+00:00",
+  "summary": "本文指出当前模型卡（Model Cards）在开放权重基础模型的下游治理中作用不足，无法有效追踪模型被修改、合并或用于恶意用途的情况。作者提出需要更动态、更细粒度的治理机制，以支持对开放权重模型的负责任使用和监管。该文为AI治理领域提供了重要视角，强调模型卡需适应开放生态的复杂性。",
+  "score": 7,
+  "tags": [
+    "evaluation",
+    "security",
+    "deployment"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:41:35.106858+00:00"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260820-004",
+  "title": "Position: Behavioral Systems Require Behavioral Tests",
+  "source": "rss:arXiv cs.AI",
+  "source_url": "https://arxiv.org/abs/2608.18081",
+  "author": "arXiv cs.AI",
+  "published_at": "2026-08-20T08:40:34.297942+00:00",
+  "collected_at": "2026-08-20T08:40:34.297942+00:00",
+  "summary": "该论文提出，行为系统（如AI代理）的评估必须基于行为测试，而非仅依赖静态基准或内部指标。作者主张通过模拟真实交互场景来验证系统性能，并讨论了行为测试的设计原则与挑战。该观点对AI系统开发与评估实践具有重要指导意义。",
+  "score": 8,
+  "tags": [
+    "evaluation",
+    "agent",
+    "multi-agent"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-20T08:41:35.106855+00:00"
+}
