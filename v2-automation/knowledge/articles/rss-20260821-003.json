@@ -1,0 +1,19 @@
+{
+  "id": "rss-20260821-003",
+  "title": "Don't paste the AI, please",
+  "source": "rss:Hacker News (Best)",
+  "source_url": "https://dontpastetheai.com/",
+  "author": "Hacker News (Best)",
+  "published_at": "2026-08-21T08:42:19.962806+00:00",
+  "collected_at": "2026-08-21T08:42:19.962806+00:00",
+  "summary": "这篇文章讨论了在软件开发中不应简单地将AI生成代码直接粘贴到项目中，强调需要理解、审查和适当集成AI建议，以确保代码质量和可维护性。它提供了关于如何有效利用AI工具同时保持代码标准的实用建议。",
+  "score": 7,
+  "tags": [
+    "code-generation",
+    "deployment",
+    "tool-use"
+  ],
+  "audience": "intermediate",
+  "status": "review",
+  "updated_at": "2026-08-21T08:43:23.645257+00:00"
+}
